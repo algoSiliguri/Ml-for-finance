@@ -1,3 +1,3 @@
 # Ml-for-finance
+Dataset folder contains the csv file for a) The original or provided data b) Data after feature creation and feature selection techniques
 
-European Bank Telemarketing a detailed analysis : EDA and Testing several models, dealing with ethical issues and clustering technques
